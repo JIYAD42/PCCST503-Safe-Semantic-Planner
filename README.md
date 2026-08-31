@@ -70,7 +70,7 @@ PCCST503-Safe-Semantic-Planner/
 │   └── experimental_results.csv
 │
 └── screenshots/
-    └── README.md
+    └── screenshots
 ```
 
 ## Requirements
