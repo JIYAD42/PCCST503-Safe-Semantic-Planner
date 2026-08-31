@@ -1,5 +1,8 @@
 # PCCST503 – Safe Semantic Planner
 
+**Name:** MUHAMMED JIYAD U  
+**University Registration Number:** LTCR24CS074
+
 ## Machine Learning Assignment 1
 
 **Design of a Safe Semantic Planner in a Finite Cartesian State Space**
