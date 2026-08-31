@@ -189,9 +189,6 @@ Possible extensions include:
 - Learning-based heuristic
 - Knowledge-graph testing
 
-## Academic Note
-
-This repository is organized as an academic assignment submission. Replace the author/student placeholders in the repository metadata or report cover page if your institution requires them.
 
 ## License
 
